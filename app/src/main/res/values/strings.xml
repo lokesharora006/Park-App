@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Park</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="parks">Parks</string>
+    <string name="map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="operating_hours">hours</string>
+    <string name="textview">tv</string>
+    <string name="no_directions">no</string>
+    <string name="info_unavailable">info</string>
+    <string name="hint_search">search</string>
+    <string name="todo">TODO</string>
+    <string name="TV3">TextView</string>
+    <string name="TV1">TextView</string>
+    <string name="TV2">TextView</string>
+</resources>
